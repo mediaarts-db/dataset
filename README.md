@@ -52,7 +52,7 @@
 |9|an210|アニメ|コレクション|アニメ劇場上映シリーズ|
 |10|an211|アニメ|コレクション|アニメ作品|
 
-* ゲーム(gm)
+* ゲーム(GM)
 
 |No|小分類ID|分野|大分類|小分類|
 | :---------------: | :---------------: | --------- | --------- | --------- |
@@ -61,7 +61,7 @@
 |3|gm306|ゲーム|コレクション|ゲーム作品|
 |4|gm317|ゲーム|アイテム|ゲーム関連資料|
 
-* メディアアート(ma)
+* メディアアート(MA)
 
 |No|小分類ID|分野|大分類|小分類|
 | :---------------: | :---------------: | --------- | --------- | --------- |
@@ -71,7 +71,7 @@
 |4|ma408|メディアアート|コレクション|メディアアート催事|
 |5|ma408|メディアアート|コレクション|メディアアート作品|
 
-* 分野横断(co)
+* 分野横断(CO)
 
 |No|小分類ID|分野|大分類|小分類|
 | :---------------: | :---------------: | --------- | --------- | --------- |
@@ -110,15 +110,15 @@
 
 |No|形式|URL|ファイルサイズ|
 | :---------------: | :---------------: | --------------- | --------- |
-|1|Json-ld形式|https://github.com/mediaarts-db/dataset/releases/download/0.9/metadata_all_json.zip|154M|
-|2|turtle形式|https://github.com/mediaarts-db/dataset/releases/download/0.9/metadata_all_ttl.zip|233M|
+|1|Json-ld形式|https://github.com/mediaarts-db/dataset/releases/download/1.0/metadata_all_json.zip|162M|
+|2|turtle形式|https://github.com/mediaarts-db/dataset/releases/download/1.0/metadata_all_ttl.zip|235M|
 
 
 ### 2.3.　データセットの詳細について
 
 メディア芸術データベース（ベータ版）メタデータスキーマ仕様書をご参照ください。
 
-<<https://github.com/mediaarts-db/dataset/blob/main/doc/MADBメタデータスキーマ仕様書（Ver.0.9）.pdf>>
+<<https://github.com/mediaarts-db/dataset/blob/main/doc/MADBメタデータスキーマ仕様書（Ver.1.0）.pdf>>
 
 ## 3.個別機能についての考え方
 
@@ -135,3 +135,4 @@
 |公開日|バージョン|コメント　　　　　　　　　　|
 | :---------------: | :---------------: | --------- |
 |2021年1月25日| ver0.9|ベータ版の提供開始|
+|2021年3月22日| ver1.0|メタデータスキーマ仕様書の更新、データセットの更新|
