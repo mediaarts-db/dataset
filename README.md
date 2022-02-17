@@ -106,14 +106,6 @@
  * 情報資源分類単位
 
 　dataset/data/配下に登録してあります。
- 
- * すべて
-
-|No|形式|URL|ファイルサイズ|
-| :---------------: | :---------------: | --------------- | --------- |
-|1|Json-ld形式|https://github.com/mediaarts-db/dataset/releases/download/1.0/metadata_all_json.zip|162M|
-|2|turtle形式|https://github.com/mediaarts-db/dataset/releases/download/1.0/metadata_all_ttl.zip|235M|
-
 
 ### 2.3.　データセットの詳細について
 
